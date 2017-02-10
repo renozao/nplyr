@@ -1,0 +1,13 @@
+Package: nplyr
+Title: Provides Enhanced plyr Functions
+Version: 0.0.0.9000
+Authors@R: person("Renaud", "Gaujoux", email = "renaud@tx.technion.ac.il", role = c("aut", "cre"))
+Description: Enhances functions like ddply, ldply, etc...
+   by giving access to the names of the variables 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: pkgmaker
+Imports: plyr,
+	utils
+RoxygenNote: 6.0.0.9000
